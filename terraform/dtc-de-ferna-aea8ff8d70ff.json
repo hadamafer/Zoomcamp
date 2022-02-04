@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dtc-de-ferna",
+  "private_key_id": "aea8ff8d70ff22abba96051ce3490ce327be98ba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDF4x42jD7Na0t9\n7XhD9JGeyVSbbTbOB6gUkueX5RWBCn5RplrXb83g/VSLLQQ0l6w2meGvpvFGvpWQ\nRPUGUsfHnX5YrOjQufJhOJt7XpXolD7qkxLWm7y97QqM3mHoJuVJwX72Jl1YS26q\nveWezfe2gL+sCXXNypuzbLfc8ZEZF8hqDP2LV+SxHOnDjp6QkNgqeTN0ckMN4ZTg\nZ8ZQTjMc1wx7yC2ATpPwxDlSWVDAep44xKoSAgrHfOoq778a5ranHSRGLu3T50xf\n+HmVyByPjPXiI7GrF0l3jWRNgfbjgNIpJQp3mnTmJb9ZC6ufx34o7LKvLvL5c9eC\nOrLBHlufAgMBAAECggEAD/OuBNGrYl3K2Rzie//kGTu7kUftihA98WKiPrFd2Wgi\nJKzXV9SQcRmazhlT5HVxkXk4IzO+8Wf9oIKeieL0bdf5Tmap4eGLc2Dfz8MhLH1+\n0OQIObqWLW1FU3O9yrwP8bEibe9LyQlTo3npX7LUzCZ2zQR6NZumj4EtFSd3/eCz\ng5ZxQf0xo1+kxlbNRvBoopNfQ1Ql7ldeluhbfQY1p9giIjg4VwhWGl4K+mJsjZvS\nSZsEzoeV5I4poiZTwo5Qwwxlor7OMw9TqMlsRmy8uH2ZdeIrqMlw0+fwG7JEU1J3\nOuvi60OhwmOLxr9l89wJFwCz/9MfYTc6Q/B5sqQngQKBgQD0NtrAWWIngrTMgkDN\nBECz7F264yMa7CmgrofODTf2lAcnGFgfc/u/GhGMLk2U60XBw4j/4y5SCdtmlaEZ\nrGq85DLLK9qePZoCl0z7U2naA01/4V7OyzCrarBnA3vv2tZ74k/uTkCzt7n150Xw\n1H0VeUBdiutMTtDfJ+eSPdB+XwKBgQDPb+pV/AFKNoirn59XpFz0duYglWh8w08k\n4YkEpg0kWgM2ol3bNESgeH1nrkZrJlq2G4YTQqCHvlrnDQwR+0wuarck2+UaoTpO\neo1+wE7kVfXO5hZEqd24TByEKeDPqsPlTc3+mGNZGBFCuAbrVfngFUxWqq3PpSGp\npmpOo3yqwQKBgEKF3rieoHoaxJ0grf4qtmVMcYvC64Ed64j1gdDDEQd98yTXIMoQ\nkfbQZw9EXaW/INVTKjJp8+gs/zLGd4fCy6CAmMV3QKnyJc2m4TVk12SnmajH/0dd\nWfiXq02kSVJgziQY1aUYc8+AsIsnYInll90NllbkzIuQvJzNBet0IyMJAoGBAJKV\nTCucm7C8npFgh7Hf9MvPZUkrKx3WyguO0EsXp/vDG7g0vkwTQFeBLWThsuMuxDUh\nd/oOP/AMZKIXByuBv9ChGnASb3AE9HXWhjxGWrlhwQSGdL/qpUIBjrkZ+sHksu9L\nrsA1IScpKbFS55jPNXbSthIcJByyXPpMHZ0aTBNBAoGBAKUrRWda0D3iz7UMtqXN\nElqvCr3/wZ1ShRvIVqprqM7AGEpaM5vlhJzltLoERXLsjxGivjA7N9yzXeV373Vw\nBggv/8ZYKFKVT5U+N9VazjqZkln5TgRGoPxUg7CGKwXkB383t+vAVz/SPHkxRiOZ\nJnsFHCkVByg7gDuqLEhVLD5Q\n-----END PRIVATE KEY-----\n",
+  "client_email": "dtc-de-user@dtc-de-ferna.iam.gserviceaccount.com",
+  "client_id": "104527520588572134069",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dtc-de-user%40dtc-de-ferna.iam.gserviceaccount.com"
+}
